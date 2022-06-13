@@ -13,7 +13,7 @@ You can acces a guideline for this installations (https://docs.google.com/presen
 * Create a package using catkin_create_pkg experiments_poc1 rospy
 * Download or clone the repository experiments_poc1 in ROS repository workspace/src/ros-kortex
 * Copy all the sub-folder from folder experiments_poc1/assests/models to your gazebo folder
-* Replace the file spawn_kortex_robot.launch on folder ros_kortex/kortex_gazebo/launch/ for the version on this repository 
+* Copy the files on launch to ros_kortex/kortex_gazebo/launch/
 * Copy the folder worlds on this repository to ros_kortex/kortex_gazebo
 * Go to catkin_workspace/src and run the command catkin_make 
 
